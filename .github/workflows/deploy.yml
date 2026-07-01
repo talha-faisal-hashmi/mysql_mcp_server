@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: argocd-mcp
+  IMAGE_NAME: mysql-mcp
 
 jobs:
   docker:
